@@ -3,7 +3,7 @@
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
 
-By Patrick Rall, Chunhao Wang, and Pawel Wocjan. arXiv:2211.?????.
+By Patrick Rall, Chunhao Wang, and Pawel Wocjan. [arXiv:2210.01670](https://arxiv.org/abs/2210.01670).
 
 This repository presents the software that performed the numerical analysis presented in the manuscript.
 
